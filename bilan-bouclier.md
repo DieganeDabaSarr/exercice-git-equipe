@@ -1,0 +1,3 @@
+- J'ai appris à créer des branches avec git
+- J'ai compris le fonctionnement des commits
+- J'ai appris à utiliser des Pulls requests
